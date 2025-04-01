@@ -1,0 +1,6 @@
+Customer ID,Bill Date,Usage (kWh),Amount ($),Payment Status,Unused Column
+C001,2024-01-15,450.0,100.5,Paid,
+C002,2024-02-15,,200.75,Pending,
+C003,2024-03-15,300.0,,Paid,
+C004,,500.0,150.25,,
+,,,,,
